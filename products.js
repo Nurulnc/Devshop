@@ -25,10 +25,10 @@
 const products = [
   {
     id: 1,
-    title: "Facebook Auto Post Bot",
-    desc: "Python দিয়ে তৈরি ফেসবুক অটো পোস্ট স্ক্রিপ্ট। গ্রুপ ও পেজে অটোমেটিক পোস্ট করুন।",
-    price: 299,
-    oldPrice: 499,
+    title: "stexSMS number panel bot Code",
+    desc: "ন্যানো সেকেন্ডে নম্বর নিন এবং অটো ওটিপি (OTP) ফরওয়ার্ডিং সুবিধা উপভোগ করুন",
+    price: 1250,
+    oldPrice: 2990,
     type: "python",
     icon: "🤖",
     bg: "linear-gradient(135deg, #1a237e 0%, #0d47a1 100%)",
